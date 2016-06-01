@@ -1,10 +1,10 @@
 [Priority] [Task] [Assigned to] [Status]
 
 Priority: [A]: Maximum [B]: Medidim [C]: Minimum
-Status:   [Waiting] [Working] [Done]
+Status:   [Waiting] [Working] [Done] [Discraded]
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-[A][Find a bare bones task management mechanism][riankashyap][Working]
 [A][Figure out how to enable TTS on ubuntu][riankashyap][Working]
 [B][Mechanism to convert text into speech on-the-fly ?][riankashyap][Waiting] 
 [C][Choose a quality TTS engine][riankashyap][Waiting]
+[A][Find a bare bones task management mechanism][riankashyap][Discraded]
