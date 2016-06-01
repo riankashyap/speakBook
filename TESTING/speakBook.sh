@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# speakBook
+# speakBook v0.0.1
 #
 # Tested on Ubuntu 14.04 LTS
 
