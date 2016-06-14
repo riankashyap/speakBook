@@ -12,6 +12,8 @@ Highlight on the text you want to be read out loud. Press windows + R key.
   <img src="./images/2.jpg" alt=""/>
 </p>
 
+To save the same as audiobook (File saves in home dir as *myaudio.wav*) press alt + R key.
+
 # Know issues
 
 On some computers shortcut keys must be enabled manually for the program to work
@@ -42,3 +44,12 @@ command : bash -c "xsel | espeak"
   <img src="./images/6.jpg" alt=""/>
 </p>
 
+4.To enable save audiobook feature, create a shortcut with the following configuration
+
+name: speakBook_save
+shortcut : alt + r
+command : bash -c "xsel | espeak --stdout > myaudio.wav"
+
+<p align="center">
+  <img src="./images/7.jpg" alt=""/>
+</p>
