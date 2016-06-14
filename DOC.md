@@ -1,3 +1,28 @@
+# How to install
+
+Open terminal window and type
+
+`git clone https://github.com/riankashyap/speakBook`   
+
+<p align="center">
+  <img src="./images/8.jpg" alt=""/>
+</p>
+
+`cd speakBook`     
+`bash ./INSTALL`   
+
+<p align="center">
+  <img src="./images/9.jpg" alt=""/>
+</p>
+
+To check if everything was installed properly type the follow and match with the below screenshots
+
+`espeak -v && xsel -v`     
+
+<p align="center">
+  <img src="./images/10.jpg" alt=""/>
+</p>
+
 # How to use
 
 Say you come across a long pdf on human psychology like i have here...
