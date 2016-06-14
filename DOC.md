@@ -32,9 +32,9 @@ On some computers shortcut keys must be enabled manually for the program to work
 
 3.Go to custom and create a shortcut with the following configuration
 
-name: speakBook
-shortcut : super + r
-command : bash -c "xsel | espeak"
+`name: speakBook`    
+`shortcut : super + r`       
+`command : bash -c "xsel | espeak"`     
 
 <p align="center">
   <img src="./images/5.jpg" alt=""/>
@@ -46,9 +46,9 @@ command : bash -c "xsel | espeak"
 
 4.To enable save audiobook feature, create a shortcut with the following configuration
 
-name: speakBook_save
-shortcut : alt + r
-command : bash -c "xsel | espeak --stdout > myaudio.wav"
+`name: speakBook_save`    
+`shortcut : alt + r`   
+`command : bash -c "xsel | espeak --stdout > myaudio.wav"`   
 
 <p align="center">
   <img src="./images/7.jpg" alt=""/>
